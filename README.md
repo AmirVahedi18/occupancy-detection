@@ -28,13 +28,12 @@ memory usage: 978.6+ KB
 
 
 ##### Histogram of the training set
-
+![download](https://user-images.githubusercontent.com/77887540/236610445-bd155a18-0b47-46aa-b109-f8e2c3889b75.png)
 
 
 
 ##### Scatter Matrix of the training set
-
-
+![download](https://user-images.githubusercontent.com/77887540/236610665-5e273946-c4c5-4e21-a3ee-7c72703221b7.png)
 
 
 
